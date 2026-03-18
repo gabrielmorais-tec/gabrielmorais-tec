@@ -15,6 +15,9 @@
   <a href="https://www.instagram.com/gabex_cwb/">
     <img src="https://img.shields.io/badge/Instagram-@GABEX__CWB-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/gabriel-sebasti%C3%A3o-2818a51b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-GABRIEL%20SEBASTIÃO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
